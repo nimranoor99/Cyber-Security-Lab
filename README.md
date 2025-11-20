@@ -2,6 +2,7 @@
 
 Welcome to the **Cyber Security Home Lab Project** repository!  
 This project provides a structured guide for building your own **cybersecurity-focused home lab** to practice, learn, and experiment safely.
+<img width="1263" height="603" alt="image" src="https://github.com/user-attachments/assets/802a8057-dd85-45bb-a830-0b8647f984ac" />
 
 ---
 
